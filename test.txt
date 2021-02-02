@@ -1,0 +1,5 @@
+Toady is Sunday
+This is the 6th lecture of Bootcamp Spark course
+We have studies a ot of topics today in Bootcamp
+We learn about RDD, Transformations and Actions in Bootcamp
+We have seen a lot of examples in Bootcamp
